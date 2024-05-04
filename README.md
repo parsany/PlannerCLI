@@ -6,7 +6,8 @@
 
 - **Activity Tracker:** Visualize your progress with a GitHub-like heat-map coloring system. You can manually select or let the system automatically assign colors based on your routine plan. 🟩🟥
 
-- **Daily Routine Planner (Endeavor):** Set and manage daily tasks, categorizing them with specific tags to keep your work organized. Tasks reset daily to help you maintain a structured routine. ♻️
+- ~~**Daily Routine Planner (Legacy):** Set and manage daily tasks, categorizing them with specific tags to keep your work organized. Tasks reset daily to help you maintain a structured routine.~~ ♻️
+- **Daily Routine Planner __(new feature)__:** Set, postpone and schedule weekly tasks, planning them ahead in a text file to keep your work organized. Tasks do not reset and act like a stack. ♻️
 
 - **Reminders:** Implement spaced repetition techniques to schedule tasks for repetition at intervals of 1, 3, 7, 12, or 22 days. 🔄
 
@@ -17,6 +18,8 @@
 - **Project Estimation:** The heart of the program - a sorting algorithm for tasks, exercises and free planners. It uses due date for each tracker and its workload to prioritize your tasks efficiently so you only focus on few trackers at a time. 🗂️⏳
 
 - **Goal Tracker:** Set, track, and achieve your goals effectively. 🎯
+
+- **schedule manager** __(new feature)__: plan your week and calculate the hours, set tags and more! use the "s" for schedule to check. this been essential part of the version 2.0
 
 - **Subject Database:** Maintain records of your coursework, course selection, and more. 📖
 
