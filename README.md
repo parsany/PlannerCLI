@@ -64,8 +64,14 @@
 
 - [x] Implement task description notes for tasks, trackers, and reminders.
 
-- [ ] Add a pie graph for day/work time/productivity over time.
+- [X] Add a pie graph for day/work time/productivity over time.
 
 - [x] Implement subgoals for goals and display active subgoals (e.g., 1/n, displaying the first checked subgoal instead of the main goal).
 
-- [ ] Refactor and improve code quality (Do NOT READ).
+- [x] add a weekly scheduler.
+
+- [x] add a task stack.
+
+- [ ] Refactor and improve code quality.
+
+- [ ] few windows bug fixes.
