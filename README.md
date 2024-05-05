@@ -39,6 +39,8 @@
 
 - **Optional Integration:** You can seamlessly integrate [goforitgnome](https://github.com/Manuel-Kehl/Go-For-It) for dynamic task management.
 
+- **Optional Integration:**: there's a file named personalplannercron.py which you can use cron to update the JSON file for the task stack.
+
 ~~don't forget to add activity before sleep, otherwise your day will be saved to red!~~
 
 ![Screenshot](screenshot.png)
