@@ -1,3 +1,6 @@
+# DEPRICATION NOTICE
+
+
 # Study Planner and Tracker
 
 **Study Planner and Tracker** is a versatile personal productivity tool designed to streamline your study routines, exercise plans, and exam preparation. Built as a modification of another repository, this project empowers you to take control of your daily tasks and learning progress with a wide array of features.
